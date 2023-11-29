@@ -1,0 +1,6 @@
+hhd2k4|Ho Huu Dai|HCM|0123456789|5
+htd2k4|Huynh Tan Duong|QN|9876543210|shopee12-12|duong@gmail.com
+lcd2k4|Luong Cam Dao|DLak|1234509876|2
+nxd2k4|Nguyen Xuan Duy|HCM|5432167890|lazada25-12|duy@gmail.com
+testid|testname|testaddress|testphone|testmadonhang|testgmail@gmail.com
+ehl2k|erling haaland|norway|8888|giay Nike|e.halan@gmail.com

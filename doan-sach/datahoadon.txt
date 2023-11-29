@@ -1,0 +1,50 @@
+hoadon01,nhanvien01,nguyen van aaaaa,khachhang01,nguyen van bbbbbb,14-11-2023 14:35
+sach02,sach01
+nobita,doremon
+25000,25000
+3,1
+hoadon02,nhanvien01,nguyen van aaaaa,khachhang02,nguyen van cccc,14-11-2023 15:04
+sach01,sach02
+doremon,nobita
+25000,25000
+5,10
+hd001100,1,duy,lcd2k4,Luong Cam Dao,29-11-2023 19:14
+001,002
+sachvip1,sachvip2
+20000,30000
+2,2
+hd010,1,duy,lcd2k4,Luong Cam Dao,29-11-2023 19:47
+003,004
+sachvip3,sachvip4
+24000,25000
+2,1
+hd001,1,duy,lcd2k4,Luong Cam Dao,29-11-2023 20:05
+001
+sachvip1
+20000
+7
+hd02,5,cam dao,lcd2k4,Luong Cam Dao,29-11-2023 20:32
+003
+sachvip3
+24000,24000
+1
+hd020,5,cam dao,lcd2k4,Luong Cam Dao,29-11-2023 20:33
+004
+sachvip4
+25000
+2
+hd03,5,cam dao,lcd2k4,Luong Cam Dao,29-11-2023 20:44
+002,003
+sachvip2,sachvip3
+30000,24000
+5,2
+hd04,5,cam dao,lcd2k4,Luong Cam Dao,29-11-2023 20:47
+003
+sachvip3
+24000
+2
+hd05,5,cam dao,lcd2k4,Luong Cam Dao,29-11-2023 20:53
+004
+sachvip4
+25000
+2

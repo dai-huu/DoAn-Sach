@@ -1,0 +1,8 @@
+1,duy,23/02/2004,sdt,hcm,3tr,1,5,
+2,duong,12,12,12,12,2,10,
+3,dai,10,09,hcm,3tr,3,15,
+4,dao,11,098,hcm,3tr,2,20,
+5,cam dao,26,000,hcm,3tr,1,25,
+6,xduy,2302,098,hcm,3tr,3,hom kia,
+7,a7,77,777,duong so 7,7tr,2,7/7,
+10,messiuuu,ai biet,deo biet lun,china,99999,1,ban cl,
